@@ -1,3 +1,4 @@
 -Hi, I'm Keith
 
--Currently interested in learning HTML/CSS and getting more real-world programming experience
+-Currently a Computer Science student
+-Interested in learning more about cyberscurity, embedded systems, and web exploitation
